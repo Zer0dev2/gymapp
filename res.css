@@ -11,6 +11,7 @@
     }
     .menu ul{
         display: none;
+        z-index:100;
     }
     .menu ul li{
         float: none;
